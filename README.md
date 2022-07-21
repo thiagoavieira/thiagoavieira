@@ -1,7 +1,7 @@
 ## Olá, tudo bem? Eu sou o Thiago Vieira 👋
 
 - 🌱 Atualmente aprendendo Java e Typescript
-- 📫 Como me contatar: thiago.vmatos@hotmail.com
+- 📫 Contato: thiago.vmatos@hotmail.com
 - 😄 Pronomes: ele/dele
 
 <div align="center">
