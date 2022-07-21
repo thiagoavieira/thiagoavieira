@@ -1,9 +1,8 @@
 ## Olá, tudo bem? Eu sou o Thiago Vieira 👋
 
-- 🌱 I’m currently learning Java and Typescript
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: thiago.vmatos@hotmail.com
-- 😄 Pronouns: ele/dele
+- 🌱 Atualmente aprendendo Java e Typescript
+- 📫 Como me contatar: thiago.vmatos@hotmail.com
+- 😄 Pronomes: ele/dele
 
 <div align="center">
   <a href="https://github.com/thiagoavieira">
