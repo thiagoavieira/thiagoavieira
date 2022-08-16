@@ -1,8 +1,14 @@
-## Olá, tudo bem? Eu sou o Thiago Vieira 👋
+## :wave: Welcome to my Github
 
-- 🌱 Atualmente aprendendo Java e Typescript
-- 📫 Contato: thiago.vmatos@hotmail.com
-- 😄 Pronomes: ele/dele
+Hello! I'm **Thiago Vieira**, I live in Brazil, currently studying Java and TypeScript. :heart:
+
+## About me
+<br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara
+<br/>🌱 Studying **web development**
+<br/>👨‍🚀 <a href="https://www.linkedin.com/posts/thiago-alves-vieira_eusoudiocampusexpert-education-tech-activity-6961077856571392000-hhkl?utm_source=linkedin_share&utm_medium=member_desktop_web" target="_blank">DIO Campus Expert</a>
+<br/>🤝 Keen to collaborate in open source projects
+<br/>📫 Contact me: thiago.vmatos@hotmail.com
+<br/>😄 Pronouns: he/him
 
 <div align="center">
   <a href="https://github.com/thiagoavieira">
@@ -25,7 +31,7 @@
 
 <div> 
   <a href = "mailto:thiago.vmatos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thiago-a-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thiago-alves-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/thiagoavieira/thiagoavieira/blob/output/github-contribution-grid-snake.svg)
  
