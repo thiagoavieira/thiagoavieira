@@ -1,10 +1,10 @@
 ## :wave: Welcome to my Github
 
-Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Java and Python. :heart:
+Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Java. :heart:
 
 ## About me
 <br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara
-<br/>🌱 Studying **web development**
+<br/>🌱 Studying **Machine Learning and Data Science**
 <br/>🤝 Keen to collaborate in open source projects
 <br/>📫 Contact me: thiago.vmatos@hotmail.com
 <br/>😄 Pronouns: he/him
@@ -16,8 +16,8 @@ Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Java and Pyth
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Thiago-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Thiago-TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Thiago-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
