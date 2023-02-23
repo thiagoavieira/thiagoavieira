@@ -11,8 +11,8 @@ Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Ja
 
 <div align="center">
   <a href="https://github.com/thiagoavieira">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoavieira&show_icons=true&theme=transparent&bg_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://streak-stats.demolab.com?user=thiagoavieira&theme=dark&background=00000000&border=EBEBEB&stroke=1B4FEB&ring=1B4FEB&fire=EB5643&currStreakNum=EB5643&mode=weekly"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoavieira&show_icons=true&theme=transparent&bg_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=thiagoavieira&theme=dark&background=00000000&border=EBEBEB&stroke=1B4FEB&ring=1B4FEB&fire=EB5643&currStreakNum=EB5643&mode=weekly"/>
 </div>
 
 <div style="display: inline_block"><br>
