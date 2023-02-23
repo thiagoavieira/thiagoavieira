@@ -11,6 +11,7 @@ Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Ja
 
 <div align="center">
   <a href="https://github.com/thiagoavieira">
+  <img height="330em" src="https://streak-stats.demolab.com?user=thiagoavieira&theme=dark&background=00000000&border=1B4FEB&stroke=1B4FEB&ring=1B4FEB&fire=EB5643&currStreakNum=EB5643"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=thiagoavieira&show_icons=true&theme=transparent&bg_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagoavieira&layout=compact&langs_count=7&theme=transparent&bg_color=00000000&text_color=ffffff"/>
 </div>
