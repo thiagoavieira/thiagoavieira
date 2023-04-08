@@ -1,6 +1,6 @@
 ## :wave: Welcome to my Github
 
-Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Java. :heart:
+Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Java! :heart:
 
 ## About me
 <br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara
