@@ -1,10 +1,11 @@
 ## :wave: Welcome to my Github
 
-Hello! I'm **Thiago Vieira**, living in Brazil, currently studying Python and Java! :heart:
+Hello! I'm **Thiago Vieira**, living in Brazil, currently working with Python and Studying Java! :heart:
 
 ## About me
-<br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara
-<br/>🌱 Studying **Machine Learning and Data Science**
+<br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara (5/6)
+<br/>‎‍💼 Working with **Python, DeepLearning, MachineLearning and DataScience**
+<br/>📖 Studying **Java, SpringBoot and Angular**
 <br/>🤝 Keen to collaborate in open source projects
 <br/>📫 Contact me: thiago.vmatos@hotmail.com
 <br/>😄 Pronouns: he/him
