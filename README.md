@@ -3,7 +3,7 @@
 Hello! I'm **Thiago Vieira**, living in Brazil, currently working with Python and Studying Java! :heart:
 
 ## About me
-<br/>💻 Currently graduating on **Analysis and Systems Development** at IFSP - Araraquara (5/6)
+<br/>💻 Graduated on **Analysis and Systems Development** at IFSP - Araraquara (2023)
 <br/>‎‍💼 Working with **Python, Computer Vision, DeepLearning, MachineLearning and DataScience**
 <br/>📖 Studying **Java, SpringBoot and Angular**
 <br/>🤝 Keen to collaborate in open source projects
