@@ -5,7 +5,7 @@ Hello! I'm **Thiago Vieira**, living in Brazil, currently working with Python an
 ## About me
 <br/>💻 Graduated on **Analysis and Systems Development** at IFSP - Araraquara (2023)
 <br/>‎‍💼 Working with **Python, Computer Vision, DeepLearning, MachineLearning and DataScience**
-<br/>📖 Studying **Java, SpringBoot and Angular**
+<br/>📖 Studying **Artificial Intelligence**
 <br/>🤝 Keen to collaborate in open source projects
 <br/>📫 Contact me: thiago.vmatos@hotmail.com
 <br/>😄 Pronouns: he/him
