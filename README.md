@@ -7,7 +7,7 @@ Hello! I'm **Thiago Vieira**, living in Brazil, currently working with Python an
 <br/>‎‍💼 Working with **Python, Computer Vision, DeepLearning, MachineLearning and DataScience**
 <br/>📖 Studying **Artificial Intelligence**
 <br/>🤝 Keen to collaborate in open source projects
-<br/>📫 Contact me: thiago.vmatos@hotmail.com
+<br/>📫 Contact me: thiagoa.vieira@outlook.com
 <br/>😄 Pronouns: he/him
 
 <div align="center">
